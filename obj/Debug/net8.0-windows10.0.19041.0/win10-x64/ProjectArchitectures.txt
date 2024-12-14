@@ -1,0 +1,1 @@
+C:\ClassFiles\SAIT\cprg211\final project\LibraryManager\LibraryManager.csproj;x64
